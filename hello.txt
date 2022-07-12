@@ -3,3 +3,5 @@ This is the first line
 This line added from dev
 
 this line added from new-branch
+
+this line added from new-branch-2
